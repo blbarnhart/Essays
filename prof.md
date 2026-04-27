@@ -1,65 +1,88 @@
 # The Professor
 
-He was already old then. I found him alone in his office, hunched over Roger Penrose's 1,000-page book "The Road to Reality: A Complete Guide to the Laws of the Universe", copying equations into a worn notebook with a pencil. I interrupted him and told him his had been my favorite course in the curriculum, to which he grimaced.
+He was alone in his office, hunched over Roger Penrose's 1,000-page book "The Road to Reality: A Complete Guide to the Laws of the Universe", copying equations into a worn notebook with a pencil. He grimaced when I interrupted with a knock and quickly told him his had been my favorite course in the curriculum.
 
 “Really?" he said. "It seems to me students care nothing more than the letters of their grade."
 
-He looked up and held my gaze.
-
-"I'm sorry," I said.
+"I'm sorry," I said, as he looked up and held my gaze.
 
 I didn't learn this until much later, but he never returned to his office after that day, and weeks later, after having sold his house, given away nearly everything he owned, the kind old man disappeared. And while rumors abound, ranging from suicide to saying he moved to southeast India to work in the slums, no one really knows what happened to him.
 
-The evening after we had spoken, he finished his proof and went home for tea and bed, skipping his dinner. He arranged his duvet as always, stacking his books neatly on the shelf and putting away his notebooks before settling under the covers and laying on his back <<some sort of set routine he does right before bed, to be repeated in the write-up>>, sighing deeply before succombing quickly to sleep.
+The evening after we had spoken, he finished his proof and went home for tea and bed, skipping dinner. He stacked his books neatly on the shelf, put away his notebooks, turned the watch face down on the bedside table, and folded his glasses beside it. Then he smoothed the duvet twice with the flats of his hands, settled himself under the covers, lay on his back, and took three measured breaths before closing his eyes.
 
-The next morning, his eyes opened slowly. He smiled at the window frame beyond his toes, tenting beneath the blue-and-white duvet, over which a small orange sphere of sunlight made its way upward. He reached to the bedside table. The watch read 5:50 a.m., a gift from the department at the end of last semester, when he had intended to retire, engraved beneath his name: Erdős 1. He passed over it and took his glasses.
+The next morning, his eyes opened slowly. He smiled at the window frame beyond his toes, tenting the blue-and-white duvet, over which a small orange sphere of sunlight peaked its way upward. He reached to the bedside table, passed over the watch, and took his glasses. 
 
 In the kitchen, he filled the kettle to its usual level, measured one scoop of tea leaves and one of bergamot into the strainer, and placed two crackers in parallel on a plate. He ate at the table, then rinsed the cup, dried it, and returned it to its place.
 
+The blue notebook was for mornings. One problem only. He worked until the problem yielded something, a solution or a boundary, or when the sun xxxxxx. 
+
+By midmorning, he closed the notebook. He folded his towel into thirds, placed his goggles in the small tin, aligned his sandals, and stepped outside. The walk to the pool was fixed. In the water, he swam counted laps. When he finished, he dried himself and returned home along the same route.
+
+The red notebook was for the afternoon. A second problem, related but distinct.
+
+Dinner was simple and unchanged. He ate, washed the dish immediately, dried it, and returned it to its place. In the evening, he read until the room had darkened completely. Then he turned the watch face down, folded his glasses beside it, smoothed the duvet twice, and lay back for his three measured breaths.
+
+The next day, he did as he always did: passed over the watch and took his glasses, filled the kettle to its usual level, measured the tea and bergamot, placed two crackers in parallel on the plate, and opened the blue notebook to a single problem.
+
+The knock came late in the morning, just as he was finishing the blue notebook.
+
+It was not loud, but it was irregular. Two quick taps, then a pause, then another, as if the person knocking was unsure of the proper rhythm. He did not answer immediately. The knock repeated. He closed the notebook, set the pencil down, and went to the door.
+
+The girl stood with a notebook held against her chest. She was younger than he had expected—perhaps thirteen, fourteen. Her hair was pulled back loosely, as if done in haste. She did not introduce herself. She asked, simply, if he could help her with a problem.
+
+He looked at the notebook, then at her.
+
+“I was retired,” he said.
+
+She nodded, as if this was information she already knew. “It’s just one problem.”
+
+There was a hesitation. Something in the sequence had broken. The morning had not yet closed. The blue notebook remained open on the table.
+
+He stepped aside and let her in.
+
+The first intrusion was contained.
+
+He set a condition: ten minutes. She sat at the table. He placed her notebook beside his own and examined the problem. It was elementary compared to what he was accustomed to, but the structure was there—an attempt at logic, partially formed. He corrected her steps one by one, speaking little. When she asked why a particular move was incorrect, he explained briefly, precisely, and returned to the line at hand.
+
+The time passed. The problem was resolved. She thanked him and left.
+
+He returned to the blue notebook, pausing briefly before rewriting the final line.
+
+The next day, he did as he always did. He passed over the watch and took his glasses. He filled the kettle to its usual level, measured one scoop of tea leaves and one of bergamot, and placed two crackers in parallel on the plate. He rinsed the cup, dried it, returned it to its place, and opened the blue notebook.
+
+But the sequence had already altered, if only in the smallest degree. His attention did not settle immediately. Once, before writing the second line, he looked toward the door. When nothing came, he bent again to the page and continued until the window light touched the bottom margin.
+
+He closed the notebook, folded his towel into thirds, placed his goggles in the tin, aligned his sandals, and walked to the pool. He swam his counted laps. He returned by the same route. He drank his second tea without crackers. He sat by the window with his eyes closed. He opened the red notebook.
+
+Only later, when the afternoon had begun to thin and the room had taken on that pale, suspended light that came before evening, did the knock sound again.
+
+This time it came only once.
+
+He stood at once.
+
+The girl was there with the notebook against her chest, though today she also carried a folded sheet of paper in one hand. She did not ask whether she might come in. She only held out the page.
+
+“I tried it your way,” she said.
+
+He took the sheet from her. She had written carefully, though not neatly; her symbols leaned forward as if in a hurry to arrive somewhere. He saw the point at which she had gone wrong, and beyond it, unexpectedly, the shape of what she had understood.
+
+“It is not wrong from the beginning,” he said.
+
+Her face changed almost imperceptibly, not into a smile, but into a loosening.
+
+He looked past her, out toward the street, where the light had begun to flatten against the pavement. The red notebook remained open on the table behind him.
+
+“How long will this one take?” she asked.
+
+He should have said ten minutes.
+
+Instead he said, “Come in.”
 
 
 
-(just a note: at this point he doesn't intend to retire but he received the watch hoping he would. he didn't. the girl asks him about this. Maybe the whole story takes place from saturday morning until monday morning when he doesn't go to work and instead embarks on a journey.)
 
 
 
-The blue notebook is for mornings. One problem only. Lately, he has been working through a variation of the Malmquist productivity index—not the standard formulation, but a refinement of how distance functions behave under small shifts in input efficiency. He writes the expression carefully, exploring how productivity change decomposes across time, testing whether a different ordering of inputs might produce a cleaner separation between technical change and efficiency. Each line follows with measured intent. When the problem resists, he rewrites it, approaching from another angle, remaining with it until it yields something—if not a solution, then a boundary.
-
-By midmorning, he closes the notebook. The day shifts.
-
-He folds his towel into thirds, places his goggles in a small tin, aligns his sandals, and steps outside. The walk to the pool is fixed—past the same houses, the same uneven stretch of sidewalk, the same corner where he pauses before crossing. In the water, he swims counted laps, each turn a quiet punctuation. The thinking here is different: rhythmic, unbroken by symbols. When he finishes, he dries himself and returns home along the same route.
-
-Another cup of tea follows, without crackers. He sits in the chair by the window and closes his eyes—not quite sleeping, but suspending the day. When he opens them, the light has shifted.
-
-The red notebook is for the afternoon. A second problem, related but distinct—testing the same Malmquist formulation under a constrained dataset, asking whether the index remains stable when inputs are partially observed. He proceeds slowly, rewriting the problem once before continuing, each step deliberate.
-
-Dinner is simple and unchanged. He eats, washes the dish immediately, dries it, and returns it to its place. In the evening, he reads—history, philosophy, anything that unfolds in language rather than symbols—before turning off the lamp and letting the room darken completely.
-
-This is the structure. It holds.
-
-The knock comes late in the morning, just as he is finishing the blue notebook.
-
-It is not loud, but it is irregular. Two quick taps, then a pause, then another, as if the person knocking is unsure of the proper rhythm. He does not answer immediately. The knock repeats. He closes the notebook, sets the pencil down, and goes to the door.
-
-The girl stands with a notebook held against her chest. She is younger than he expects—perhaps thirteen, fourteen. Her hair is pulled back loosely, as if done in haste. She does not introduce herself. She asks, simply, if he can help her with a problem.
-
-He looks at the notebook, then at her.
-
-“I am retired,” he says.
-
-She nods, as if this is information she already has. “It’s just one problem.”
-
-There is a hesitation. Something in the sequence has broken. The morning has not yet closed. The blue notebook remains on the table.
-
-He steps aside and lets her in.
-
-The first intrusion is contained.
-
-He sets a condition: one hour. She sits at the table. He places her notebook beside his own and examines the problem. It is elementary compared to what he is accustomed to, but the structure is there—an attempt at logic, partially formed. He corrects her steps, one by one, speaking little. When she asks why a particular move is incorrect, he explains, briefly, precisely, and returns to the line at hand.
-
-The hour passes. The problem is resolved. She thanks him and leaves.
-
-He returns to the blue notebook, but the problem he had been working on now feels closed in a different way, as if its edges have shifted slightly. He rewrites the final line. It no longer feels complete.
 
 The second intrusion arrives the next day.
 
