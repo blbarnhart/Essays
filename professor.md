@@ -1,36 +1,31 @@
-# The Professor
+﻿# The Professor
 
-At four o'clock the light from the east window in his office lay flat on the far wall, a pale rectangle above the radiator. Chalk dust had settled in the grooves of the windowsill. The same brown mug sat beside the same stack of journals, its tea stain dark at the bottom, the handle turned toward his right hand.
+He was bent over Roger Penrose's The Road to Reality, a tome of one thousand pages spread open to some middle chapter, like ancient script of latin, on the desk before him. It was a simple office, with chalkboard along the longest wall, and the desk abutted to the corner near the window. Shelves overladen with papers and books in obscene piles. He sat huddled over his oak desk and copied an equation into a green notebook with a pencil worn down to the ferrule. His cardigan was buttoned to the collar, each button set, the hem level. Thinning gray hair combed neatly from left to right. When I knocked, he lifted his head, startled, and I’d have there was something in the look of his eyes that resembled fear. Cold, innocent, childish fear -- him staring up at me and me staring down at him -- before he grimaced it away. 
 
-He was bent over Roger Penrose's The Road to Reality, all one thousand pages of it spread open like a slab on the desk. He copied an equation into a green notebook with a pencil worn down to the ferrule. When I knocked, he lifted his head as if the door had spoken out of turn.
+I had come from the graduate office down the hall, where the students were packing away the last of their belongings. Exams were over, the semester finally come to a close, so they were finally at ease. They shared imitations of teachers and guessed who they might be. One crossed the room in a bent shuffle, a hand trembling out in front of him, saying, "If we start with an orthogonal subspace," in the professor's stretched, careful voice. The others laughed. 
 
-His gray hair stood up in two places at the back. His cardigan was buttoned to the collar, each button set, the hem level.
+“Too easy!” 
 
-I had come from the graduate office down the hall, where one of the students had just crossed the room in a bent shuffle, one hand trembling out in front of him, saying, "Now we observe the eigenvector," in the professor's stretched, careful voice. The others laughed into their hands. I had laughed once too, too loudly, then picked up my bag and left while the laugh was still in the room.
+As sad as it was, it reminded me, and I slipped out then, hurried down the long corridor to the line of professor’s offices, and in a hushed, reverent voice, told him, in the doorway of his office while he sat at his desk, “Your course was my favorite."
 
-His Quantum Mechanics II course had met in a small lecture room with two cracked blackboards and eight of us arranged in the front rows. He entered every morning in short steps, placed his leather satchel on the table, looked at us over his glasses, and turned to the board without greeting. He filled the board from left to right in a chalk line so steady that none of us could tell when one proof ended and another began. We copied what we could. He erased with the heel of his hand. His cuffs were always white with dust by the end.
+He winced. “Really?" he said. “I thought all you wanted was good marks.”
 
-Now, in the office doorway, I said, "Your course was my favorite in the curriculum."
+My shoulders tightened, and I cursed myself for coming – how could it be this hard to relay good news? 
 
-He did not smile. He placed the pencil in the gutter of Penrose's book and looked at me until my shoulders tightened.
+I’m trying to brighten this man, not perform another examination. I thought immediately to graduate students down the hall, and their irreverence to his intellect. The graciousness he gave to us, in patient. We owed this man. And here I was the one to do it, only to be met with pushback. But he had only expressed surprise. Perhaps again I was being too hard on others.
 
-"Really?" he said. "It seems to me students care nothing more than the letters of their grade."
+“It would’ve been nice to examine some of the more nuanced versions of quantum electromagnetic theory.” 
 
-The radiator hissed. Behind him, pinned to the wall, was a yellowed conference schedule from years before. Someone had circled his name in blue ink.
 
-"I'm sorry," I said.
+"I'm sorry," I said. "I just wanted to say goodbye."
 
-He kept looking at me. Not sternly. Not kindly. As if he were waiting for me to correct an error I had not yet seen.
-
-I shifted my bag higher on my shoulder. "I just wanted to say goodbye."
-
-He lowered his eyes to the book. His thumb touched the pencil but did not lift it.
-
+I shifted my bag higher on my shoulder, and he lowered his eyes back to the book before him. 
+  
 "Goodbye, then," he said.
 
-That was the last time I saw him at the university. By the next week, his office was locked. By the end of the month, the books were gone from the shelves, the brown mug from the desk, the conference schedule from the wall. Later I heard he had sold his house, given away his furniture, and emptied his bank account in small withdrawals. Someone said he had drowned himself in the river. Someone else said he had gone to India with a medical charity, though he was not a doctor and had never liked heat. The department chair said only that Professor Emil Varro had retired.
+That was the last time I saw him at the university, or anywhere for that matter. The next day, his office and the entire school was locked, and he sojourned away with the rest of the group. The next semester, the books were gone from the shelves, his brown mug from the desk, and all the piles of papers. Later I heard he had sold his house, given away his furniture, and emptied his bank account in a series of small withdrawals. Someone said he had drowned himself in the river. Someone else said he had gone to India with a charity group. The department chair said only that Professor Emil Varro had retired.
 
-The evening after I knocked on his office door, he finished the line he had been copying, closed the green notebook, and placed it squarely on top of Penrose. He wiped the desk with a dry cloth, not because it was dirty but because the cloth was there.
+The evening after I knocked on his office door, he finished the line he had been copying, closed the green notebook, and placed it squarely on top of Penrose’s tome. He wiped the desk with a dry cloth, tidying the last of his things, and went home. 
 
 At home he did not turn on the hallway light. The house stood narrow between two wider houses, its brick front darkened by rain. He hung his coat on the second hook, placed his keys in a shallow dish, and boiled water for tea. He did not make dinner. He set one cup on the table, measured tea leaves into the strainer, then added bergamot from a small tin whose lid had lost its shine.
 
